@@ -8,10 +8,12 @@ body {
     border-radius: 16px;
     background-color: rgb(106, 128, 136);
     color: white;
+    padding: 10px;
 }
 
 .main-container {
     text-align: center;
+    margin-top: 10px;
 }
 
 .input-container {

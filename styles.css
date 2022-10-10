@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(145, 142, 142);
+}
+
+.heading-container {
+    text-align: center;
+    border-radius: 16px;
+    background-color: rgb(106, 128, 136);
+    color: white;
+}
+
+.main-container {
+    text-align: center;
+}
+
+.input-container {
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+    background-color: lightgrey;
+    height: 30px;
+    border-radius: 16px;
+    align-content: center;
+    font-size: larger;
+}
+
+.result-container {
+    text-align: center;
+    margin: auto;
+    padding: 24px;    
+    width: 340px;
+}
+
+.country-details-container {
+    background-color: rgb(173, 196, 147);
+    border-radius: 16px;
+    border: 2px solid rgb(90, 88, 88);
+    box-shadow: 10px 10px;
+    font-size: large;
+}
+
+
+.specs {
+    font-size: large;
+    font-weight: bold;
+}
